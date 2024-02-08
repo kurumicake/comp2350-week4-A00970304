@@ -6,14 +6,14 @@ const dbConfigRender = {
 	host: "sql.freedb.tech",
 	user: "freedb_cwan_main",
 	password: "n!?hTMRsJ2GNPM*",
-	database: "freedb_comp2350-week4-A00970304",
+	database: "freedb_comp2350-week2-A00970304",
 	multipleStatements: false
 };
 
 const dbConfigLocal = {
 	host: "sql.freedb.tech",
 	user: "freedb_cwan_main",
-	password: "Coding@626929a44",
+	password: "n!?hTMRsJ2GNPM*",
 	database: "Free DB",
 	multipleStatements: false
 };
